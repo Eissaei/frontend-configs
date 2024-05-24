@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Rz Mainnet",
+    "url": "https://explorer.rz.game/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/Eissaei/frontend-configs/master/configs/network-icons/rz.svg",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "Rz Testnet",
+    "url": "http://testnet-explorer.rz.game/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/Eissaei/frontend-configs/master/configs/network-icons/rz.svg",
+    "isActive": true,
+    "invertIconInDarkMode": true
+  }
+]
